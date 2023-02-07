@@ -6,9 +6,9 @@ from State import *
 
 
 def main():
-#  input_file_name, output_file_name = getfiles()
-  input_file_name = "Z:/DWN_PENSKE/Subscriber_Detail_2023-01-11T1912_QWCR3j.csv"
-  output_file_name = "Z:/DWN_PENSKE/Subscriber_Detail_2023-01-11T1912_QWCR3j_mod.csv"
+  input_file_name, output_file_name = getfiles()
+# input_file_name = "Z:/DWN_PENSKE/Subscriber_Detail_2023-01-11T1912_QWCR3j.csv"
+# output_file_name = "Z:/DWN_PENSKE/Subscriber_Detail_2023-01-11T1912_QWCR3j_mod.csv"
   print(input_file_name)
   print(output_file_name)
 
